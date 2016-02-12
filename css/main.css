@@ -1,5 +1,16 @@
-.twilight {
+.twighlight {
     background-image: url('../images/C9K0RGSYMU.jpg');
-    background-size: contain;
+    background-size: cover;
     background-position: top center;
+    background-repeat: no-repeat;
+}
+.title {
+    color: #eee;
+}
+.subtitle {
+    color: black;
+    background-color: white;
+    padding: 8px;
+    display: inline;
+    font-weight: bold;
 }
